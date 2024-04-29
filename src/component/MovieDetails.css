@@ -1,0 +1,28 @@
+.movie-details-container {
+    background-color: turquoise;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .movie-details-container h1 {
+    color: white;
+  }
+  
+  .movie-details-container img {
+    max-width: 20%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+ 
+  
+  .movie-details-container a:hover {
+    text-decoration: underline;
+  }
+  
